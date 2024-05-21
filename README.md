@@ -1,27 +1,4 @@
 
-
-<title>Informe de Resultados del Análisis de Ruta para Robot en Rejilla</title>
-<style>
-body {
-    font-family: Arial, sans-serif;
-    line-height: 1.6;
-    margin: 20px;
-    padding: 0;
-}
-h1, h2, h3 {
-    margin-top: 0;
-}
-pre {
-    background-color: #f4f4f4;
-    padding: 10px;
-    overflow-x: auto;
-}
-code {
-    font-family: monospace;
-}
-</style>
-</head>
-<body>
 <h1>Informe de Resultados del Análisis de Ruta para Robot en Rejilla</h1>
 
 <h2>Descripción del Proceso:</h2>
